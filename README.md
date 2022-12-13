@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nataliajaimehughes
-- 👀 I’m interested in developing new applications, web pages, and technology. 
-- 🌱 I’m currently learning about Java programming and Software Engineering.
+- 🌱 I’m currently creating mobile applications with Java programming.
+- 👀 I’m interested in developing mobile applications, web pages, and technology. 
+- 
 - 💞️ I’m looking to collaborate on developing new mobile applications.
 - 📫 How to reach me nataliajaimehughes@gmail.com
 
