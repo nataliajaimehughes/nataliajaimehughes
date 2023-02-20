@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nataliajaimehughes
 - 🌱 I’m currently creating mobile applications with Java programming.
-- 👀 I’m interested in developing mobile applications and web pages with an upcoming Software Developer internship.
+- 👀 I’m interested in developing mobile applications and websites to improve public health in various ways.
 
 - 📫 How to reach me https://www.linkedin.com/in/nataliajaimehughes/
 
