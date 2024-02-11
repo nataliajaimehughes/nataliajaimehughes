@@ -1,8 +1,13 @@
 - :computer: :iphone: I love learning languages (Java, Kotlin, HTML, CSS, JavaScript (React, React Native, Node.js), C/C++, Python, Swift, Typescript, XML, +)!
 
 - :hearts: I develop mobile applications and websites to improve public health with multilingual education.
+
 - :mortar_board: Earning a master's degree in SmartEdTech, a second bachelor's degree in computer science, and an honors certificate for full-stack web and mobile development from Nucamp by the summer of 2024 or earlier.
+
 -  📫 How to reach me https://www.linkedin.com/in/nataliajaimehughes/
+
+- 🌎 Reduce American Waste Website: https://reduceamericanwaste.wordpress.com
+- :speech_balloon: Health Education Sample: https://iseazy.com/dl/29db48b50da14ee8b1639bdcc601b524#/cover
 
 <!---
 nataliajaimehughes/nataliajaimehughes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
