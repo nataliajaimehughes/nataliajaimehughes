@@ -2,13 +2,15 @@
 
 - :hearts: I develop mobile applications and websites to improve public health with multilingual education.
 
-- :mortar_board: Earning a master's degree in SmartEdTech, a second bachelor's degree in computer science, and an honors certificate for full-stack web and mobile development from Nucamp by the summer of 2024 or earlier.
+- :mortar_board: Earning a master's degree in smart educational technology, a second bachelor's degree in computer science, and an honors certificate for full-stack web and mobile development from Nucamp soon.
 
 - :mountain_bicyclist: Programming Languages: Java, Kotlin, HTML, CSS, JavaScript (React, React Native, Express.js, Node.js), C/C++, Python, Swift, Typescript, XML, +
 
 -  📫 How to reach me https://www.linkedin.com/in/nataliajaimehughes/
 
 - 🌎 Reduce American Waste Website: https://reduceamericanwaste.wordpress.com
+- :seedling: Mission: Improve public health with money-saving, environmental solutions.
+
 - :speech_balloon: Health Education Sample: https://iseazy.com/dl/29db48b50da14ee8b1639bdcc601b524#/cover
 
 <!---
