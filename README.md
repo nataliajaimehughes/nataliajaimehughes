@@ -2,7 +2,7 @@
 
 - :hearts: I develop mobile applications and websites to improve public health with multilingual education.
 
-- :mortar_board: Earning a master's degree in smart educational technology, a second bachelor's degree in computer science, and an honors certificate for full-stack web and mobile development from Nucamp soon.
+- :mortar_board: Earning a master's degree in smart educational technology (completed), a second bachelor's degree in computer science (winter 2024? spring 2025?), and an honors certificate for full-stack web and mobile development from Nucamp (completed).
 
 - :mountain_bicyclist: Programming Languages: Java, Kotlin, HTML, CSS, JavaScript (React, React Native, Express.js, Node.js), C/C++, Python, Swift, Typescript, XML, +
 
