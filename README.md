@@ -15,6 +15,12 @@
 
 - :video_camera: Videos of Projects
     - Back-End Programming: https://youtu.be/bf0wDXHv904
+    - Website: https://www.youtube.com/watch?v=2TVK2q5R72E&pp=ygUUbmF0YWxpYSBqYWltZS1odWdoZXM%3D
+    - App: https://www.youtube.com/watch?v=TyAl4Tgxehw&pp=ygUUbmF0YWxpYSBqYWltZS1odWdoZXM%3D
+    - Scratch Game: "Grocery Store Game":
+          - Second Version: https://scratch.mit.edu/projects/886156345/
+          - First Version: https://scratch.mit.edu/projects/764037014/
+    - Video Editing (Adobe Premiere Pro) 2014: https://www.youtube.com/watch?v=DslCUYnUSK8&pp=ygUUbmF0YWxpYSBqYWltZS1odWdoZXM%3D
 
 <!---
 nataliajaimehughes/nataliajaimehughes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
