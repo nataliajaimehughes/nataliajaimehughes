@@ -16,11 +16,15 @@
 
 -  📫 How to reach me https://www.linkedin.com/in/nataliajaimehughes/
 
-- 🌎 Reduce American Waste Website: https://reduceamericanwaste.wordpress.com
 - :seedling: Mission: Improve public health with money-saving, environmental solutions.
 
-- :speech_balloon: Health Education Sample: https://iseazy.com/dl/29db48b50da14ee8b1639bdcc601b524#/cover
-
+- :brain: Health Research:
+    - Health Education (Nutrition, Exercise):
+            https://iseazy.com/dl/29db48b50da14ee8b1639bdcc601b524#/cover
+    - Reduce American Waste Website:
+            https://reduceamericanwaste.wordpress.com
+    - Medium articles:
+            https://medium.com/@nataliajaimehughes/vertical-farming-to-prevent-diseases-44f443389dff
 - :video_camera: Videos of Projects
     - Data Structures & Algorithms: 
     - Advanced Java: 
