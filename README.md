@@ -6,7 +6,7 @@
 
   - Master's degree, Smart Educational Technology
 
-  - Bachelor's degree, Computer Science (by winter 2025?)
+  - Bachelor's degree, Computer Science (by November 2024?)
         
   - Bachelor's degree, Neurobiology, Physiology, and Behavior
         
