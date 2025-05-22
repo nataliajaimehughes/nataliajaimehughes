@@ -2,11 +2,11 @@
 
 - :hearts: I develop mobile applications and websites to improve public health with multilingual education.
 
-- :mortar_board: Earned / In Progress:
+- :mortar_board: Earned:
 
   - Master's degree, Smart Educational Technology
 
-  - Bachelor's degree, Computer Science (by November 2024?)
+  - Bachelor's degree, Computer Science
         
   - Bachelor's degree, Neurobiology, Physiology, and Behavior
         
