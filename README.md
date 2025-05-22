@@ -37,6 +37,8 @@
           - Newest Version: https://scratch.mit.edu/projects/886156345/
 
           - First Version: https://scratch.mit.edu/projects/764037014/
-    - Video Editing (Adobe Premiere Pro)
+    - Video Editing (Adobe Premiere Pro):
+
           - 2014: https://www.youtube.com/watch?v=DslCUYnUSK8&pp=ygUUbmF0YWxpYSBqYWltZS1odWdoZXM%3D
+
           - 2024: https://www.youtube.com/watch?v=nMstzk0A3Bk
