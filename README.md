@@ -26,6 +26,7 @@
     - Medium articles:
             https://medium.com/@nataliajaimehughes/vertical-farming-to-prevent-diseases-44f443389dff
 - :video_camera: Videos of Projects
+    - Capstone: 
     - Data Structures & Algorithms: 
     - Advanced Java: https://youtu.be/W0YZcazEnn4
     - Back-End Programming (Java, Spring Framework): https://youtu.be/bf0wDXHv904
